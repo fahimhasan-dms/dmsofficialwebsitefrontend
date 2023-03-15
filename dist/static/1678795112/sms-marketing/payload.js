@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/sms-marketing", {data:[{}],fetch:{},mutations:[]});

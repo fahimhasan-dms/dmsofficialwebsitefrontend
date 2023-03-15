@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/domain-registration", {data:[{}],fetch:{},mutations:[]});

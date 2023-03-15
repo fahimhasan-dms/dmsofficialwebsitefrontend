@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/terms-and-condition", {data:[{}],fetch:{},mutations:[]});

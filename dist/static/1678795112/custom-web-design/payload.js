@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/custom-web-design", {data:[{}],fetch:{},mutations:[]});

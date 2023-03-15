@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{411:function(t,e,n){"use strict";n.r(e);var l={name:"ListItemTitleComponent",props:{Title:{required:!0}}},o=n(18),component=Object(o.a)(l,(function(){var t=this,e=t._self._c;return e("div",[e("h1",{staticClass:"custom_h1"},[t._v(t._s(t.Title.title))])])}),[],!1,null,null,null);e.default=component.exports}}]);

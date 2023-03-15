@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/display-marketing-ppc", {data:[{}],fetch:{},mutations:[]});

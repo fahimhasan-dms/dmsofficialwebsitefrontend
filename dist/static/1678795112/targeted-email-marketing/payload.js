@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/targeted-email-marketing", {data:[{}],fetch:{},mutations:[]});

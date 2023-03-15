@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/mission-and-vision", {data:[{}],fetch:{},mutations:[]});

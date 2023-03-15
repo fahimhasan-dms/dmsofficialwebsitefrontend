@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/seo-service-provider-company", {data:[{}],fetch:{},mutations:[]});

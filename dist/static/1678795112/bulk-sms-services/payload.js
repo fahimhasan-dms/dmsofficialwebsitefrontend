@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/bulk-sms-services", {data:[{}],fetch:{},mutations:[]});

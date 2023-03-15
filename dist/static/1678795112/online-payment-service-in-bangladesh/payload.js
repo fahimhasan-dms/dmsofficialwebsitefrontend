@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/online-payment-service-in-bangladesh", {data:[{}],fetch:{},mutations:[]});

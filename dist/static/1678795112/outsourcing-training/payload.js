@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/outsourcing-training", {data:[{}],fetch:{},mutations:[]});

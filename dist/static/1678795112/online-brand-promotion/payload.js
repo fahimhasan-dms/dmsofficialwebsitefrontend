@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/online-brand-promotion", {data:[{}],fetch:{},mutations:[]});

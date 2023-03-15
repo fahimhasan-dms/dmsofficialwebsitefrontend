@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/refund-policy", {data:[{}],fetch:{},mutations:[]});

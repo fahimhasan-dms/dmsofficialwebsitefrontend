@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/video-marketing-agency", {data:[{}],fetch:{},mutations:[]});

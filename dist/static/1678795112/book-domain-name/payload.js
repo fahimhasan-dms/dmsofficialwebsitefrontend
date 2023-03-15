@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/book-domain-name", {data:[{}],fetch:{},mutations:[]});
